@@ -1,9 +1,7 @@
-a='radar'
-b='prakash'
+a=5
+b=4
 
-print(type(a),type(b))
-
-#Check Palindrome
-
-print(a==a[::-1])
-print(b==b[::-1])
+print(a+b)
+print(a-b)
+print(a*b)
+print(a%b)
